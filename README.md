@@ -24,7 +24,8 @@ The primary objectives of this project are as follows:
 4. **Prompt Analysis**: Understand the impact of different prompts on student performance.
 
 
-## Sub-tasks
+## Sub-tasks 
+`Executed`
 
 **Data Cleaning:**
 
@@ -45,9 +46,13 @@ The primary objectives of this project are as follows:
 9. Compute correlations or perform regression analysis between content and wording scores to explore their relationship.
 
 **Prompt Analysis:**
+
+`In Progress`
+
 10. Determine the most frequently used prompts by counting occurrences and analyzing their impact on the distribution of content and wording scores.
 
-## Advanced Querying Techniques
+## Advanced Querying Techniques 
+
 
 Utilising  MongoDB's advanced querying techniques for your student summaries dataset, consider the following objectives:
 
